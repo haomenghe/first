@@ -7,7 +7,7 @@ public class FuncationTest01 {
 		
 		System.out.println(sum(4,3));
 	}
-	
+	//求两个数的和
 	public static int sum(int a, int b){
 		
 		return a+b;
